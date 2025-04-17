@@ -19,4 +19,6 @@ Funnel chart - Comparison of sales by Category
 
 Pie-chart - Orders status
 
+![Image](https://github.com/user-attachments/assets/222f2382-3b00-4047-9b5f-d780b181865c)
+
 
